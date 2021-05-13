@@ -1,0 +1,10 @@
+{
+  "posts": [
+    {
+      "Id": 1,
+      "Name": "hello",
+	  "Prenon" : "moi",
+	  "Email":"yahoo61@laposte.net"
+    }
+  ]
+}
